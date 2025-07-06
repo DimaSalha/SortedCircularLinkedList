@@ -36,5 +36,3 @@ After inserting 4: [1] -> [3] -> [4] -> [7] -> [9]
 
 - Otherwise:  
   → Traverse to find correct position and insert accordingly.
-نسخ
-تحر
